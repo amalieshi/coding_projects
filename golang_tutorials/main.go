@@ -1,4 +1,4 @@
-package golang_tutorials
+package main
 
 import "fmt"
 
