@@ -1,0 +1,6 @@
+/Users/huishi/Documents/c_sharp_tutorials/HelloWorld/HelloWorld/bin/Debug/HelloWorld.exe
+/Users/huishi/Documents/c_sharp_tutorials/HelloWorld/HelloWorld/bin/Debug/HelloWorld.pdb
+/Users/huishi/Documents/c_sharp_tutorials/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csprojAssemblyReference.cache
+/Users/huishi/Documents/c_sharp_tutorials/HelloWorld/HelloWorld/obj/Debug/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/huishi/Documents/c_sharp_tutorials/HelloWorld/HelloWorld/obj/Debug/HelloWorld.exe
+/Users/huishi/Documents/c_sharp_tutorials/HelloWorld/HelloWorld/obj/Debug/HelloWorld.pdb
