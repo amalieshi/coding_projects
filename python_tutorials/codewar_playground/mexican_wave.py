@@ -3,7 +3,6 @@ word = "this is a few words"
 def wave(word):
     word_list = list(word)
     space_count = word_list.count(" ")
-    iteration = len(word) - space_count
     ans = []
     for i in range(len(word)):
         element = word_list[i]
